@@ -2,8 +2,9 @@
 
 Introduction:
 
-In this project, I used Tableau Desktop to build interactive Resume to convey my message clearly and attract audiences attention.
-I designed this Resume via Figma, then using professional tools to make more interactively by using Tableau features.
+In this project, I used [Tableau Public](https://public.tableau.com/en-us/s/
+) to build interactive Resume to convey my message clearly and attract audiences attention.
+I designed this Resume via [Figma](https://www.figma.com/), then using professional tools to make more interactively by using Tableau features.
 
 > **This project is a part of [Coding Dojo Data Science course](http://learn.codingdojo.com/m/196/6244/46875) under supervision of the [Saudi Digital Academy](https://sda.edu.sa/ar/hemam)**
 
@@ -18,12 +19,11 @@ I designed this Resume via Figma, then using professional tools to make more int
 # project Tools:
 •``Public Tableau``
 
-•[``Figma``] (https://www.figma.com/)
+•``Figma`` 
 
 # Resources:
 - https://www.youtube.com/watch?v=EHzoxlKKn4Y&t=1886s
 - https://www.udemy.com/course/tableau10-advanced/learn/lecture/5710166?start=450-
-- https://public.tableau.com/en-us/s/
 
 
 
