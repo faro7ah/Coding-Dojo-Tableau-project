@@ -17,11 +17,13 @@ I designed this Resume via Figma, then using professional tools to make more int
 
 # project Tools:
 •``Public Tableau``
-•``Figma``
+
+•[``Figma``] (https://www.figma.com/)
 
 # Resources:
 - https://www.youtube.com/watch?v=EHzoxlKKn4Y&t=1886s
-- https://www.udemy.com/course/tableau10-advanced/learn/lecture/5710166?start=450
+- https://www.udemy.com/course/tableau10-advanced/learn/lecture/5710166?start=450-
+- https://public.tableau.com/en-us/s/
 
 
 
