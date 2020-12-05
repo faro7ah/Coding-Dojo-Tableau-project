@@ -1,6 +1,6 @@
 # Coding-Dojo-Tableau-project
 
-Introduction:
+## Introduction:
 
 In this project, I used [Tableau Public](https://public.tableau.com/en-us/s/
 ) to build interactive Resume to convey my message clearly and attract audiences attention.
@@ -13,8 +13,7 @@ I designed this Resume via [Figma](https://www.figma.com/), then using professio
 
 
 
-[Tableau Link](https://public.tableau.com/profile/farah.hamad.s#!/vizhome/resume_16070876370150/Resume)
-
+[**Tableau Link**](https://public.tableau.com/profile/farah.hamad.s#!/vizhome/resume_16070876370150/Resume)
 
 
 
