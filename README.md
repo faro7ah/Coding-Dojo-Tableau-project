@@ -29,4 +29,4 @@ I designed this Resume via [Figma](https://www.figma.com/), then using professio
 
 
 
-
+.
