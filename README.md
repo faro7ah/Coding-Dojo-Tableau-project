@@ -17,10 +17,6 @@ I designed this Resume via [Figma](https://www.figma.com/), then using professio
 
 
 
-[**Tableau Link**](https://public.tableau.com/profile/farah.hamad.s#!/vizhome/resume_16070876370150/Resume)
-
-
-
 
 # project Tools:
 •``Public Tableau``
@@ -33,4 +29,3 @@ I designed this Resume via [Figma](https://www.figma.com/), then using professio
 
 
 
-.
