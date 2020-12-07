@@ -9,7 +9,7 @@ I designed this Resume via [Figma](https://www.figma.com/), then using professio
 > **This project is a part of [Coding Dojo Data Science course](http://learn.codingdojo.com/m/196/6244/46875) under supervision of the [Saudi Digital Academy](https://sda.edu.sa/ar/hemam)**
 
 
-[![resume](https://public.tableau.com/profile/farah.hamad.s#!/vizhome/resume_16070876370150/Resume)(resume.jpg)](https://public.tableau.com/profile/farah.hamad.s#!/vizhome/resume_16070876370150/Resume)
+[![resume](resume.jpg)(https://public.tableau.com/profile/farah.hamad.s#!/vizhome/resume_16070876370150/Resume)](https://public.tableau.com/profile/farah.hamad.s#!/vizhome/resume_16070876370150/Resume)
 
 
 
